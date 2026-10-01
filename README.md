@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hlo, I'm Ramalakshmi Surapureddy 👋
 
-<!--
-**ramalakshmisurapureddy06-byte/ramalakshmisurapureddy06-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Learning Java & DSA | AI & Web Development
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in software development, problem solving, and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm learning and working with:
+
+- ☕ Java & Data Structures and Algorithms
+- 🤖 Artificial Intelligence
+- 🌐 Web Development
+
+### 🚀 Projects
+
+- **Shellforge** — A Unix-style shell written in C
+- **University Timetable Generator** — A project exploring search algorithms for timetable generation
+- **Transport Logistic System** — A project focused on transportation and logistics
+- **Java & DSA Projects** — Practice with data structures, algorithms, and problem solving
+
+### 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Java programming
+- Problem solving
+- Systems programming
+- AI fundamentals
+- Web development
+
+### 🛠️ Technologies
+
+`Java`  `JavaScript` `HTML` `CSS` `Git` `GitHub`
+
+### 📫 Connect With Me
+
+- GitHub: [@ramalakshmisurapureddy06-byte](https://github.com/ramalakshmisurapureddy06-byte)
+
+
+---
+
+⭐ I'm continuously learning, building projects, and improving my programming skills.
