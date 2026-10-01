@@ -33,7 +33,7 @@ Currently, I'm learning and working with:
 ### 📫 Connect With Me
 
 - GitHub: [@ramalakshmisurapureddy06-byte](https://github.com/ramalakshmisurapureddy06-byte)
-
+- LinkedIn: [Ramalakshmi Surapureddy](https://www.linkedin.com/in/ramalakshmi-surapureddy-415405440/)
 
 ---
 
